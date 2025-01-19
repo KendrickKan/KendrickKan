@@ -7,6 +7,10 @@
 - 🎓 I completed my undergraduate studies in **Computer Science** at **NanJing University of Science and Technology (NJUST)**.
 - 📫 How to reach me: [Email](dongkan@seu.edu.cn) | [Google Scholar](https://scholar.google.com/citations?user=QlMlt9EAAAAJ&hl=en).
 
+## Contributions
+
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=KendrickKan&theme=github-compact)
+
 ## Stats
 
 ![info](https://github-readme-stats.vercel.app/api?username=KendrickKan&show_icons=true&count_private=true&hide=prs&theme=default_repocard) &nbsp;&nbsp; ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=KendrickKan&hide=ipynb,html&layout=compact)
