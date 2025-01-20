@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Email](dongkan@seu.edu.cn) | [Google Scholar](https://scholar.google.com/citations?user=QlMlt9EAAAAJ&hl=en).
 
 ## Contributions
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-gitblock.svg)
 
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=KendrickKan&theme=github-compact)
 
